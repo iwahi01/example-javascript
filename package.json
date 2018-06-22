@@ -5,7 +5,7 @@
   "author": "srcclr <hello@srcclr.com>",
   "description": "A node project to demostrate srcclr scans",
   "dependencies": {
-    "jquery.min": "3.3.1",
-    "bootstrap.min": "4.1.1"
+    "jquery-min": "3.3.1",
+    "bootstrap.min.js": "4.1.1"
   }
 }
